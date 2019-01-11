@@ -4,4 +4,4 @@
   setup:
 
 - debug:
-    msg: "test 1"
+    msg: "test 2"
