@@ -4,4 +4,4 @@
   setup:
 
 - debug:
-    msg: "Master"
+    msg: "Release 2"
