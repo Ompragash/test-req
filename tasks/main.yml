@@ -4,4 +4,4 @@
   setup:
 
 - debug:
-    msg: "test 7"
+    msg: "Release 1"
